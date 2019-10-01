@@ -1,0 +1,174 @@
+# REAL_DEV/DEV_RED3
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_0.tga
+
+# REAL_DEV/DEV_GRAY2
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_1.tga
+
+# REAL_DEV/DEV_ORANGE2
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_2.tga
+
+# REAL_DEV/DEV_PURPLE5
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_3.tga
+
+# REAL_DEV/DEV_GRAY7
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_4.tga
+
+# REAL_DEV/DEV_GRAY4
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_5.tga
+
+# REAL_DEV/DEV_GRAY8
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_6.tga
+
+# REAL_DEV/DEV_PINK2
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_7.tga
+
+# REAL_DEV/DEV_GRAY1
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_8.tga
+
+# SASPATOON/GLASS/GLASSWHITE
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd bhop_kairos_material_9.tga
+
+# REAL_DEV/DEV_GRAY6
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_10.tga
+
+# REAL_DEV/DEV_GREEN4
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_11.tga
+
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+illum 0
+
+# REAL_DEV/DEV_GREEN6
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_13.tga
+
+# SASPATOON/GLASS/GLASSGREY
+newmtl material_14
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd bhop_kairos_material_14.tga
+
+# REAL_DEV/DEV_PURPLE4
+newmtl material_15
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_15.tga
+
+# REAL_DEV/DEV_RED4
+newmtl material_16
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_16.tga
+
+# CHRONOS/KAIROS/CHICKEN
+newmtl material_17
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_17.tga
+
+# CHRONOS/KAIROS/HAWK
+newmtl material_18
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_18.tga
+
+# CHRONOS/KAIROS/BLACKBIRD
+newmtl material_19
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_19.tga
+
+# CHRONOS/KAIROS/BIRD
+newmtl material_20
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_20.tga
+
+# DEVNEONS/RED_NEON
+newmtl material_21
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_21.tga
+
+# CHRONOS/KAIROS/PENGUIN
+newmtl material_22
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_22.tga
+
+# CHRONOS/KAIROS/PIGEON
+newmtl material_23
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_23.tga
+
+# CHRONOS/KAIROS/CREDITS
+newmtl material_24
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_24.tga
+
+# DEVNEONS/GREEN_NEON
+newmtl material_25
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_25.tga
+
+# DEVNEONS/PINK_NEON
+newmtl material_26
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_26.tga
+
+# DEVNEONS/PURPLE_NEON
+newmtl material_27
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_27.tga
+
+# CHRONOS/KAIROS/MEHB
+newmtl material_28
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd bhop_kairos_material_28.tga
+
